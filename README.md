@@ -7,18 +7,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam-p92&label=Profile%20views&color=0e75b6&style=flat" alt="satyam-p92" /> </p>
 
-- 🔭 I’m currently working on **Netflix-clone**
+- 🔭 I’m currently working on **Advancing My JavaScript Skills and their Projects**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript And their Frameworks**
 
-- 💬 Ask me about **Tailwind, C++, Frontend Programming languages**
+- 💬 Ask me about **Frontend Programming related Anythings**
 
-- 📫 How to reach me **satyamprakash4562@gmail.com**
+- 📫 How to reach me **satyamprakash4562@gmail.com** is my email conatct anytime
 
 - ⚡ Fun fact **quickly get Interested in anything new.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a a href="mailto: satyamprakash4562@gmail.com">Send E-mail</a>
 </p>
 <br>
 <hr>
